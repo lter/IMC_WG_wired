@@ -20,10 +20,10 @@ material.
   - examples 
       - WIRED (IMC WG)
       - ECC (EDI WG)
-      - 
-    - features
-        - 
-    - template
+      - imexec (tbd)
+  - features
+      - to do
+  - template
   - next steps
 
 
