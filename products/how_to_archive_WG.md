@@ -1,7 +1,7 @@
 An archived working group is one that is no longer active. Active working groups are more complex. 
 
 Goals of an archive
-1. IMC can find material from an inactive WG
+1. IMC can find material from an inactive WG (and does not add more material to im.lternet.edu)
 1. NCO has a record of the work IMC has done
 1. IMC WGs have a presence in general the LTER WG area
 
