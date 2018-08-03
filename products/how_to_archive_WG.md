@@ -1,4 +1,12 @@
-First pass at an outline of the process a WG might use to archive their materials:
+An archived working group is one that is no longer active. Active working groups are more complex. 
+
+Goals of an archive
+1. goal 1
+1. goal 2
+
+
+
+Here is a first pass at an outline of the process a WG might use to archive their materials:
 
 1. archive WG section at im.lternet.edu
 2. mark that section as "ARCHIVED" 
