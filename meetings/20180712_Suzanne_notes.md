@@ -78,3 +78,5 @@ Marty provided a google sheet with the document types from the LTER web site
 and the number of documents assigned to each as a starting place for our retagging 
 and categorizing:
 https://docs.google.com/spreadsheets/d/10zEsx12MlgSjjhU9ojfuzTCg3jzIPmWm_KYDFINsS8Y/edit?usp=sharing
+
+the doctypes spreadsheet is also in this repo, under [practices/NCO](/practices/NCO)
