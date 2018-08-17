@@ -7,3 +7,4 @@ Basic defininitions:
 - EDIorg: github organization for EDI
 
 See the flowchart: 
+[imc-wired-wg-decision_tree.png](imc-wired-wg-decision_tree.png)
