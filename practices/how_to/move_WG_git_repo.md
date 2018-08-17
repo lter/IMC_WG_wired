@@ -47,10 +47,10 @@ goal and membership of the WG
         1. link to  git or svn
    
 ## Examples
-1. code block for a notice that this material is being moved. Be sure that the "input format" is set to "full HTML". The default is filtered HTML, and span tag won't work.
+1. code block for a notice that this material is being moved. Be sure that the "input format" is set to "full HTML". The default is filtered HTML, and span tag won't work. Drupal should respect the newlines in this block.
 
 ```
 <span style="color:red;font-weight:bold">THIS WG's material has MOVED TO GIT. 
-<br>See https://github.com/lter/IMC_WG_wired
-<br>contact Suzanne, Margaret or Marty</span>
+See https://github.com/lter/IMC_WG_wired
+contact Suzanne, Margaret or Marty</span>
 ```
