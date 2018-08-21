@@ -60,6 +60,7 @@ contact Suzanne, Margaret or Marty</span>
 #### EML Best Practices
 1. Where: to EDI, as this is an ongoing project, [dm-best-practices](https://github.com/EDIorg/dm-best-practices). See folder: EML-BP-doc/archive/LTER-IMC-WG-material/WG_archive_BP/
 2. Still to do: 
+    - get attached docs from links, zip up dir into one file
     - determine what NCO needs, send it to them.
 #### EML Congruence Checker
 1. Where: to EDI, as this is an ongoing project and part of PASTA, [ECC](https://github.com/EDIorg/ECC). See folder: archive/wg_history
