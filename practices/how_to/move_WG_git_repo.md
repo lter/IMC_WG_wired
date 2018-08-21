@@ -61,6 +61,11 @@ contact Suzanne, Margaret or Marty</span>
 1. Where: to EDI, as this is an ongoing project, [dm-best-practices](https://github.com/EDIorg/dm-best-practices). See folder: EML-BP-doc/archive/LTER-IMC-WG-material/WG_archive_BP/
 2. Still to do: 
     - determine what NCO needs, send it to them.
+#### EML Congruence Checker
+1. Where: to EDI, as this is an ongoing project and part of PASTA, [ECC](https://github.com/EDIorg/ECC). See folder: archive/wg_history
+2. Still to do: 
+    - archive meeting notes, reports
+    - determine what NCO needs, send it to them
 
 ### Finished 
 Please inform the wired group when you are finished, and they will add your example to this list.
